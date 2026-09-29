@@ -1,0 +1,19 @@
+{
+  "name": "AkibaOS",
+  "short_name": "AkibaOS",
+  "description": "Financial freedom for every Rwandan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#155fe8",
+  "background_color": "#f4f8ff",
+  "icons": [
+    {
+      "src": "/akiba-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
